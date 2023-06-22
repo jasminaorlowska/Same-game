@@ -1,5 +1,5 @@
 # Same-game
-[same game] (https://en.wikipedia.org/wiki/SameGame)
+[wikipedia - same game](https://en.wikipedia.org/wiki/SameGame)
 ## Introduction 
 A rectangular board for the single-player game SameGame is divided into cells, organized in rows and columns.
 Each cell is either empty or contains a block of a specific type.
